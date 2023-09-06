@@ -66,7 +66,7 @@ class _HomeState extends State<Home> {
                       width: 200,
                       decoration: BoxDecoration(
                         image: DecorationImage(
-                          image: AssetImage("Asset/images/images1.jpeg"),
+                          image: AssetImage("Asset/images/images2.jpeg"),
                         ),
                       ),
                     ),
@@ -171,7 +171,7 @@ class _HomeState extends State<Home> {
                       decoration: BoxDecoration(
                         image: DecorationImage(
                           image: (Droop == true)
-                              ? AssetImage("Asset/images/imageslioncage.jpeg")
+                              ? AssetImage("Asset/images/alephantcage.jpg")
                               : AssetImage("Asset/images/imagescage.jpeg"),
                         ),
                       ),
